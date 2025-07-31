@@ -1,0 +1,14 @@
+# VS Code Extensions List
+
+## How to get your extensions list:
+1. Open VS Code
+2. Press Ctrl+Shift+P (or Cmd+Shift+P on Mac)
+3. Type "Extensions: Show Installed Extensions"
+4. Copy the extension names and paste them below
+
+## Your Extensions:
+<!-- Add your extensions here, one per line -->
+<!-- Example format: -->
+<!-- ms-vscode.vscode-typescript-next -->
+<!-- bradlc.vscode-tailwindcss -->
+<!-- esbenp.prettier-vscode --> 

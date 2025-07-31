@@ -1,0 +1,33 @@
+# Cursor Extensions List
+
+## How to get your Cursor extensions:
+
+### Method 1: Using Cursor UI
+1. Open Cursor
+2. Press `Ctrl+Shift+X` (or `Cmd+Shift+X` on Mac) to open Extensions panel
+3. Click on "Installed" tab
+4. Copy the extension names and paste them below
+
+### Method 2: Using Command Palette
+1. Open Cursor
+2. Press `Ctrl+Shift+P` (or `Cmd+Shift+P` on Mac)
+3. Type "Extensions: Show Installed Extensions"
+4. Copy the extension names and paste them below
+
+### Method 3: Check these directories manually
+- Windows: `%APPDATA%\Cursor\User\extensions`
+- Windows (alternative): `%LOCALAPPDATA%\Cursor\User\extensions`
+- macOS: `~/Library/Application Support/Cursor/User/extensions`
+- Linux: `~/.config/Cursor/User/extensions`
+
+## Your Extensions:
+<!-- Add your extensions here, one per line -->
+<!-- Example format: -->
+<!-- ms-vscode.vscode-typescript-next -->
+<!-- bradlc.vscode-tailwindcss -->
+<!-- esbenp.prettier-vscode -->
+<!-- ms-vscode.vscode-eslint -->
+
+## Generated on: [Date will be added when you fill this in]
+
+## Total Extensions: [Count will be added when you fill this in]
